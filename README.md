@@ -1,4 +1,4 @@
 # README
 
-### ReactとRials
+### ReactとRails
 deviseを使った認証
